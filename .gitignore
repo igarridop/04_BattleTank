@@ -344,3 +344,8 @@ BattleTank/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
 BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
 BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
 BattleTank/Content/KiteDemo/
+BattleTank/Content/Media/Audio/MainMenu_WavMUsic.wav
+BattleTank/Content/Media/Audio/Switch coursor.wav
+BattleTank/Content/Media/Audio/Tank_Start.wav
+BattleTank/Content/Media/Audio/SwitchCursor_2.wav
+*.wav
